@@ -6,9 +6,9 @@
 // @author       IKnights and HoRRis Lupercal
 // @match        https://elgea.illyriad.co.uk/*
 // @match        http://elgea.illyriad.co.uk/*
-// @require      https://raw.githubusercontent.com/HoRRis-Lupercal/Illyriad-Tool-Suite/main/Illyriad-Tool-Suite.bundle.js
-// @updateURL    https://raw.githubusercontent.com/HoRRis-Lupercal/Illyriad-Tool-Suite/main/Illyriad-Tool-Suite.user.js
-// @downloadURL  https://raw.githubusercontent.com/HoRRis-Lupercal/Illyriad-Tool-Suite/main/Illyriad-Tool-Suite.user.js
+// @require      https://raw.githubusercontent.com/HoRRis-Lupercal/Illyriad-Tool-Suite/live-testing/Illyriad-Tool-Suite.bundle.js
+// @updateURL    https://raw.githubusercontent.com/HoRRis-Lupercal/Illyriad-Tool-Suite/live-testing/Illyriad-Tool-Suite.user.js
+// @downloadURL  https://raw.githubusercontent.com/HoRRis-Lupercal/Illyriad-Tool-Suite/live-testing/Illyriad-Tool-Suite.user.js
 // @grant        none
 // @run-at       document-idle
 // @license      IKnights Non-Commercial
