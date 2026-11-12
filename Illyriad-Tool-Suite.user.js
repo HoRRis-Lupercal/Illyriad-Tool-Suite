@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Illyriad Tools Suite
+// @name         Illyriad Tools Suite (Live Testing)
 // @namespace    IKnights-HoRRisLupercal
-// @version      0.14.21
+// @version      0.14.23
 // @description  Integrated tools and interface customization for Illyriad.
 // @author       IKnights and HoRRis Lupercal
 // @match        https://elgea.illyriad.co.uk/*
@@ -14,5 +14,5 @@
 // @license      IKnights Non-Commercial
 // ==/UserScript==
 
-// The main userscript bundle is loaded through @require to avoid it being opened in the Tampermonkey editor if the user is entering script settings for any reason. 
+// The main userscript bundle is loaded through @require to avoid it being opened in the Tampermonkey editor if the user is entering script settings for any reason.
 // The script includes inline images to provide seamless hover interactions with a custom theme enabled, but they do not play nice with the Tampermonkey editor.
