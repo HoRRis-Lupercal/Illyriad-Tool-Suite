@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Illyriad Tools Suite (Live Testing)
 // @namespace    IKnights-HoRRisLupercal
-// @version      0.14.34
+// @version      0.14.35
 // @description  Integrated tools and interface customization for Illyriad.
 // @author       IKnights and HoRRis Lupercal
 // @match        https://elgea.illyriad.co.uk/*
