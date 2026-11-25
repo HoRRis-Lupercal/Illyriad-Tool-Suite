@@ -11,7 +11,7 @@
 // @downloadURL  https://raw.githubusercontent.com/HoRRis-Lupercal/Illyriad-Tool-Suite/main/Illyriad-Tool-Suite.user.js
 // @grant        none
 // @run-at       document-idle
-// @license      IKnights Non-Commercial
+// @license      IKnights Personal Use License
 // ==/UserScript==
 
 // The main userscript bundle is loaded through @require to avoid it being opened in the Tampermonkey editor if the user is entering script settings for any reason. The script includes inline images to provide seamless hover interactions with a custom theme enabled, but they do not play nice with the Tampermonkey editor.
